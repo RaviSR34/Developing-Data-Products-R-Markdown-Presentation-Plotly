@@ -1,6 +1,5 @@
 R-Markdown-Presentation-Plotly
-
-Aaryaman Awasthi course project
+Ravi Shankar Rai course project
 
 What is being done
 instructions for the assignment :
